@@ -1,0 +1,58 @@
+h1 {
+
+
+color: darkslategray;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: center;
+
+   
+}
+h2{
+
+    color: rgb(43, 96, 96);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h3 {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+p{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    background-color: rgb(192, 219, 220) ; 
+    
+    text-align: center;
+    
+    line-height: 15pt;
+
+    border: 45px;
+}
+
+img {
+    height: 310px;
+    width: 230px;
+    border-radius: 30px;
+    padding: 40px;
+   
+    
+   
+}
+footer {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h3 {
+
+   font-size: xx-large;
+}
